@@ -1,4 +1,4 @@
-Hello
+Hello,
 - Currently I'm learning JS and CSS.
 - Except from coding i like drawing, reading books, watching movies and gaming.
 - Contact me via email: mithrin12@gmail.com
