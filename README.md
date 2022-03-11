@@ -1,6 +1,5 @@
-- Hello, my name is Artur.
-- I'd like to become web dev. 
-- Currently I'm practicing HTML, JS and CSS.
+Hello
+- Currently I'm learning JS and CSS.
 - Except from coding i like drawing, reading books, watching movies and gaming.
 - Contact me via email: mithrin12@gmail.com
 <!---
